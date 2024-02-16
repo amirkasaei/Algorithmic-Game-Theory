@@ -7,4 +7,6 @@ Broad survey of topics at the interface of theoretical computer science and econ
 basic algorithms and complexity (154N and 161, or equivalent). No prior knowledge of economics or game theory is required. 
 
 ## Source 
-[CS364A: Tim Roughgarden](https://timroughgarden.org/f13/f13.html)
+### CS364A: Tim Roughgarden
+- [Lecture Notes](https://timroughgarden.org/f13/f13.html)
+- [Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
